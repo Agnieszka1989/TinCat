@@ -1,0 +1,164 @@
+.logo-img{
+  width: 150px;
+  height: 120px;
+
+}
+
+.navbar{
+  padding: 1rem 0 2.5rem !important;
+}
+
+.navbar-nav{
+  margin-left: 50%;
+}
+
+.d-flex{
+  margin-top: 1%;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0 !important;
+}
+
+#con1{
+  background-color: #eca1a6;
+
+
+}
+
+.carousel-img{
+  height: 350px;
+  width: 500px;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+h1{
+  text-align: center;
+  padding: 9%;
+  font-family: 'Sriracha', cursive;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+  padding-top: 2%;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Modak', cursive;
+
+}
+
+h5{
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+}
+
+p{
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+
+}
+
+.btn{
+  margin-left: 10% !important;
+}
+
+@media(max-width:991px) {
+  #con1{
+    text-align: center !important;
+  }
+  .carousel-img{
+    margin: auto;
+    position: static;
+  }
+  .container-fluid{
+    position: relative;
+  }
+
+}
+
+#con2{
+  background-color: #fff;
+  position: relative;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.cards{
+  text-align: center;
+
+}
+
+.con2-icon{
+  color: #eca1a6;
+  margin-bottom: 1rem;
+
+}
+
+#main{
+
+  background-color:#eca1a6;
+  position: relative;
+
+
+}
+
+
+
+
+.j1{
+
+  height: 270px;
+  width: 350px;
+    margin-top: 25px;
+  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/1386422/pexels-photo-1386422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+
+}
+
+.j2{
+  height: 270px;
+    margin-top: 25px;
+  background-image: url(https://images.pexels.com/photos/193255/pexels-photo-193255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+background-size: cover;
+width: 350px;
+}
+
+
+.j3{
+  height: 270px !important;
+  width: 350px;
+  margin-top: 25px;
+  background-image: url(https://images.pexels.com/photos/96399/pexels-photo-96399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+background-size: cover;
+
+}
+
+.heart{
+
+padding: 1rem 0 180rem
+
+
+
+}
+
+.footer{
+  height: 100px;
+  background-color: #eca1a6;
+  text-align: center;
+}
+
+.btn{
+  width: 180px;
+}
+
+h4{
+  font-family: 'Sriracha', cursive;
+  color: white;
+  padding: 2%;
+}
